@@ -1,0 +1,15 @@
+﻿@model int
+
+
+@using (Html.BeginForm())
+{
+
+
+    <h2>Eliminar Usuario</h2>
+
+    <p>¿Estás seguro de que quieres eliminar este usuario?</p>
+    @Html.HiddenFor(model => model)
+
+    <button type="submit" class="btn btn-danger">Eliminar</button> 
+   
+}

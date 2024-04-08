@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaEntity\\-Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\ProductoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaEntity\\-Models\\ProductoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\pruebaentity\\-models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pruebaentity\\-models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\pruebaentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pruebaentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\pruebaentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pruebaentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PruebaEntity\\-Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\Persona.cs",
+              "RelativeToolTip": "PruebaEntity\\-Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:45:18.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PruebaEntity\\-Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\Producto.cs",
+              "RelativeToolTip": "PruebaEntity\\-Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:45:08.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "PruebaEntity\\-Models\\ProductoContext.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\-Models\\ProductoContext.cs",
+              "RelativeToolTip": "PruebaEntity\\-Models\\ProductoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:43:17.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaEntity\\Program.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\Program.cs",
+              "RelativeToolTip": "PruebaEntity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:25:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaEntity\\appsettings.json",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\PruebaEntity\\PruebaEntity\\appsettings.json",
+              "RelativeToolTip": "PruebaEntity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T07:25:24.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

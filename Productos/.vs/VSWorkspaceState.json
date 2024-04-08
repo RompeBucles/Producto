@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Productos",
+    "\\Productos\\Productos",
+    "\\Productos\\Productos\\Controllers",
+    "\\Productos\\Productos\\Models",
+    "\\Productos\\Productos\\Views",
+    "\\Productos\\Productos\\Views\\producto"
+  ],
+  "SelectedNode": "\\Productos\\Productos\\Controllers\\productoController.cs",
+  "PreviewInSolutionExplorer": false
+}

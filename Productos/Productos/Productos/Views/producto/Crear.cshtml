@@ -1,0 +1,34 @@
+﻿@model ProductosModel
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.nombre)
+        @Html.TextBoxFor(model => model.nombre, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.nombre)
+
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.categoria)
+        @Html.TextBoxFor(model => model.categoria, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.categoria)
+        
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.precio)
+        @Html.TextBoxFor(model => model.precio, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.precio)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.fecha)
+        @Html.TextBoxFor(model => model.fecha, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(model => model.fecha)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+}

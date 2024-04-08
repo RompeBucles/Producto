@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\producto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\producto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|c:\\users\\cacam\\documents\\github\\productos\\productos\\productos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\producto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631A3957-3B19-4398-9D51-3035CEECEC9E}|Productos\\Productos.csproj|solutionrelative:productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\eliminar.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\producto\\eliminar.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\eliminar.cshtml",
+              "RelativeToolTip": "Productos\\Views\\producto\\eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T04:42:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productoController.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Controllers\\productoController.cs",
+              "RelativeDocumentMoniker": "Productos\\Controllers\\productoController.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Controllers\\productoController.cs",
+              "RelativeToolTip": "Productos\\Controllers\\productoController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:43:27.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\Index.cshtml",
+              "RelativeToolTip": "Productos\\Views\\producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:31:13.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\editar.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\producto\\editar.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\editar.cshtml",
+              "RelativeToolTip": "Productos\\Views\\producto\\editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T03:22:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\producto\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\producto\\Crear.cshtml",
+              "RelativeToolTip": "Productos\\Views\\producto\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:36:30.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosModel.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Models\\ProductosModel.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\ProductosModel.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Models\\ProductosModel.cs",
+              "RelativeToolTip": "Productos\\Models\\ProductosModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:47:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Productos\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Productos\\Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:30:59.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Productos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T21:15:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Productos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:32:40.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Productos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:51:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Productos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Productos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:04:34.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Productos\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:21:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Productos\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:21:49.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Productos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:25:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Productos\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Productos\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T02:25:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\appsettings.json",
+              "RelativeDocumentMoniker": "Productos\\appsettings.json",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\appsettings.json",
+              "RelativeToolTip": "Productos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T20:11:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Productos\\Program.cs",
+              "ToolTip": "C:\\Users\\cacam\\Documents\\GitHub\\Productos\\Productos\\Productos\\Program.cs",
+              "RelativeToolTip": "Productos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:37:10.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
